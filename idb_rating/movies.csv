@@ -1,0 +1,51 @@
+,movie,year,timeMin,imdb,metascore,votes,us_grossMillions
+0,Nomadland,2020,107,7.6,93        ,26736,
+1,Avengers: Endgame,2019,181,8.4,78        ,826292,858.37
+2,Soul,2020,100,8.1,83        ,190559,
+3,Dara of Jasenovac,2020,130,8.4,-,33084,
+4,The Trial of the Chicago 7,2020,129,7.8,77        ,103991,
+5,Gone Girl,2014,149,8.1,79        ,866653,167.77
+6,Mission: Impossible - Fallout,2018,147,7.7,86        ,293670,220.16
+7,The Shawshank Redemption,1994,142,9.3,80        ,2357825,28.34
+8,Sound of Metal,2019,120,7.8,82        ,36742,
+9,Parasite,2019,132,8.6,96        ,570340,53.37
+10,Once Upon a Time... In Hollywood,2019,161,7.6,83        ,561469,142.5
+11,The Silence of the Lambs,1991,118,8.6,85        ,1280025,130.74
+12,Argo,2012,120,7.7,86        ,575321,136.03
+13,The Godfather,1972,175,9.2,100        ,1631768,134.97
+14,Thor: Ragnarok,2017,130,7.9,74        ,594663,315.06
+15,Harry Potter and the Sorcerer's Stone,2001,152,7.6,64        ,663222,317.58
+16,Avengers: Infinity War,2018,149,8.4,68        ,845268,678.82
+17,The Wolf of Wall Street,2013,180,8.2,75        ,1200093,116.9
+18,Knives Out,2019,130,7.9,82        ,467149,165.36
+19,The Gentlemen,2019,113,7.8,51        ,247470,
+20,Joker,2019,122,8.4,59        ,956569,335.45
+21,Inglourious Basterds,2009,153,8.3,69        ,1277167,120.54
+22,Interstellar,2014,169,8.6,74        ,1525833,188.02
+23,The Dark Knight,2008,152,9.0,84        ,2317179,534.86
+24,Jurassic Park,1993,127,8.1,68        ,872652,402.45
+25,Pulp Fiction,1994,154,8.9,94        ,1837618,107.93
+26,Titanic,1997,194,7.8,75        ,1052474,659.33
+27,Inception,2010,148,8.8,74        ,2081187,292.58
+28,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,92        ,1671188,315.54
+29,Deadpool,2016,108,8.0,65        ,908531,363.07
+30,Guardians of the Galaxy,2014,121,8.0,76        ,1049018,333.18
+31,Another Round,2020,117,7.8,81        ,43866,
+32,Bohemian Rhapsody,2018,134,8.0,49        ,456191,216.43
+33,Dazed and Confused,1993,102,7.6,78        ,166775,7.99
+34,1917,2019,119,8.3,78        ,438198,159.23
+35,Spider-Man: Into the Spider-Verse,2018,117,8.4,87        ,382122,190.24
+36,Blade Runner 2049,2017,164,8.0,81        ,466382,92.05
+37,The Departed,2006,151,8.5,85        ,1197277,132.38
+38,Shutter Island,2010,138,8.2,63        ,1139716,128.01
+39,Goodfellas,1990,146,8.7,90        ,1027981,46.84
+40,Deadpool 2,2018,119,7.7,66        ,484276,324.59
+41,Back to the Future,1985,116,8.5,87        ,1064977,210.61
+42,Get Out,2017,104,7.7,85        ,497489,176.04
+43,The Goonies,1985,114,7.8,62        ,245926,61.5
+44,The Grand Budapest Hotel,2014,99,8.1,88        ,713627,59.1
+45,Dunkirk,2017,106,7.8,94        ,560712,188.37
+46,American Psycho,2000,101,7.6,64        ,495566,15.07
+47,Saving Private Ryan,1998,169,8.6,91        ,1243360,216.54
+48,The Matrix,1999,136,8.7,73        ,1686870,171.48
+49,The Avengers,2012,143,8.0,69        ,1266295,623.28
